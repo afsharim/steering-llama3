@@ -2,3 +2,10 @@ artifacts/
 logs/
 plots/
 __pycache__/
+
+
+# Generated Python caches.
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
